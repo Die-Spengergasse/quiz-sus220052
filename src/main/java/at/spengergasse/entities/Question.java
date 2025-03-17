@@ -19,7 +19,7 @@ public class Question {
 
 
     @Override
-    public String toString() {
+    public String   toString() {
         return "Question{" +
                 "id=" + id +
                 ", text='" + text + '\'' +
